@@ -5,19 +5,9 @@ More characters are coming, be patient
 Characters included so far:
 -Eric Cartman
 -Kyle Broflovski
--
--
--
--
--
--
--
--
--
--
-
-Upcoming character sprite sheets
 -Stan Marsh
+
+Upcoming character sprite sheets:
 -Kenny McCormick
 -Butters Stotch
 -Klyde
