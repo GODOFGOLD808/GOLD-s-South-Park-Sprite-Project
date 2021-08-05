@@ -6,9 +6,9 @@ Characters included so far:
 -Eric Cartman
 -Kyle Broflovski
 -Stan Marsh
+-Kenny McCormick
 
 Upcoming character sprite sheets:
--Kenny McCormick
 -Butters Stotch
 -Klyde
 -Token Black
