@@ -7,6 +7,7 @@ Characters included so far:
 -Kyle Broflovski
 -Stan Marsh
 -Kenny McCormick
+-Chef
 
 Upcoming character sprite sheets:
 -Butters Stotch
